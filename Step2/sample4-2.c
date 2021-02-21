@@ -8,7 +8,7 @@ int main(){
     price[0]=80; price[1]=100; price[2]=120;
     price[3]=140; price[4]=150; price[5]=160;
     price[6]=200; price[7]=198; price[8]=220;
-    price[9]=280; price[10]=300;
+    price[9]=280;
 
     /*繰り返し処理*/
     do{
